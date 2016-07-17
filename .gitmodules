@@ -1,0 +1,6 @@
+[submodule "ChatExchange"]
+	path = ChatExchange
+	url = git@github.com:Manishearth/ChatExchange.git
+[submodule "ChatExchange6"]
+	path = ChatExchange6
+	url = git@github.com:ByteCommander/ChatExchange6.git
